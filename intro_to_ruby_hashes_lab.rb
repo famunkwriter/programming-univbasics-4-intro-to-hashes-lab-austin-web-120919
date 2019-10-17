@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  my_hash = [:car => "Monte Carlo", :style => "LX"]
+  my_hash = ["car" => "Monte Carlo", "style" => "LX"]
 end
 
 def pioneer
